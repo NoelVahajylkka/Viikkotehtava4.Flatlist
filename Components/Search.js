@@ -24,5 +24,6 @@ const styles = StyleSheet.create({
         borderColor: '#333',
         borderWidth: 1,
         padding:5,
+        width: '100%'
     }  
 });
